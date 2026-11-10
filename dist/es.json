@@ -1,0 +1,342 @@
+{
+  "slug": "awesome-ia-primeiro-trabalho",
+  "language": "es",
+  "title": "Awesome IA no primeiro trabalho",
+  "description": "IA para quienes empiezan a trabajar: asistentes, privacidad, dónde buscar empleo, los derechos del primer trabajo y las estafas de la oferta falsa.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Asistentes de IA",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaprim-chatgpt",
+          "description": "El asistente de OpenAI, con plan gratuito y planes de pago.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaprim-claude",
+          "description": "El asistente de Anthropic, con plan gratuito y planes de pago.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaprim-copilot",
+          "description": "El asistente de Microsoft, también dentro de Windows y Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaprim-gemini",
+          "description": "El asistente de Google, también dentro de Gmail y Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Privacidad en las IA",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaprim-anthropic-onde-mudar-o-treino",
+          "description": "Cómo evitar que tus conversaciones en Claude se usen para entrenar el modelo.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaprim-google-atividade-do-gemini",
+          "description": "Cómo desactivar el historial de actividad de Gemini y qué cambia con eso.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaprim-microsoft-controles-de-privacidad",
+          "description": "Dónde están los controles de privacidad y de entrenamiento de Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaprim-openai-controles-de-dados",
+          "description": "Cómo evitar que las conversaciones en ChatGPT se usen para entrenar el modelo.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaprim-whatsapp-privacidade",
+          "description": "Lo que WhatsApp dice sobre privacidad, incluso cuando se conversa con Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "vagas",
+      "title": "Dónde buscar empleo",
+      "items": [
+        {
+          "name": "CIEE",
+          "url": "https://portal.ciee.org.br/",
+          "link": "https://go.mymarketing.click/iaprim-ciee",
+          "description": "El Centro de Integración Empresa-Escuela, con vacantes de prácticas y de aprendiz.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gupy: como a IA ordena candidatos",
+          "url": "https://www.gupy.io/inteligencia-artificial/ordenacao-de-pessoas-candidatas-em-vagas",
+          "link": "https://go.mymarketing.click/iaprim-gupy-como-a-ia-ordena-candidatos",
+          "description": "La explicación de Gupy sobre cómo su IA ordena las candidaturas.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sine no gov.br",
+          "url": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+          "link": "https://go.mymarketing.click/iaprim-sine-no-gov-br",
+          "description": "El Sistema Nacional de Empleo, para buscar vacantes a través del gobierno.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "direitos",
+      "title": "Derechos de quien empieza",
+      "items": [
+        {
+          "name": "CLT",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+          "link": "https://go.mymarketing.click/iaprim-clt",
+          "description": "La Consolidación de las Leis del Trabajo (CLT).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do estágio",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+          "link": "https://go.mymarketing.click/iaprim-lei-do-estagio",
+          "description": "La Ley 11.788/2008, con los derechos del practicante.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do vale-transporte",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418.htm",
+          "link": "https://go.mymarketing.click/iaprim-lei-do-vale-transporte",
+          "description": "La Ley 7.418/1985, que crea el vale de transporte.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabela de contribuição do INSS",
+          "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal",
+          "link": "https://go.mymarketing.click/iaprim-tabela-de-contribuicao-do-inss",
+          "description": "Cuánto del salario va al INSS, según la tabla oficial.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabelas do Imposto de Renda 2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+          "link": "https://go.mymarketing.click/iaprim-tabelas-do-imposto-de-renda-2026",
+          "description": "Cuánto del salario va al Impuesto de la Renta, según la tabla oficial.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "Vacante falsa y estafa de la tarea",
+      "items": [
+        {
+          "name": "CERT.br: golpes, o que fazer",
+          "url": "https://cartilha.cert.br/fasciculos/golpes-o-que-fazer/fasciculo-golpes-o-que-fazer.pdf",
+          "link": "https://go.mymarketing.click/iaprim-cert-br-golpes-o-que-fazer",
+          "description": "Qué hacer después de caer en una estafa, según el fascículo del CERT.br.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: golpe da tarefa",
+          "url": "https://portal.febraban.org.br/noticia/4051/pt-br/",
+          "link": "https://go.mymarketing.click/iaprim-febraban-golpe-da-tarefa",
+          "description": "La alerta de Febraban sobre la estafa que paga para dar me gusta y luego cobra.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: vaga falsa",
+          "url": "https://portal.febraban.org.br/noticia/4449/pt-br/",
+          "link": "https://go.mymarketing.click/iaprim-febraban-vaga-falsa",
+          "description": "La alerta de Febraban sobre vacantes de empleo falsas.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Registrato do Banco Central",
+          "url": "https://www.bcb.gov.br/meubc/registrato",
+          "link": "https://go.mymarketing.click/iaprim-registrato-do-banco-central",
+          "description": "Consulta gratuita de cuentas, préstamos y claves Pix a tu nombre, para ver si alguien usó tus datos.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Protección de datos",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaprim-lgpd",
+          "description": "La Ley General de Protección de Datos, en el texto compilado del Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaprim-anpd",
+          "description": "La Autoridad Nacional de Protección de Datos, con guías y reglamentos de la LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Libro y kit",
+      "items": [
+        {
+          "name": "IA no primeiro trabalho (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/iaprim-ia-no-primeiro-trabalho-livro",
+          "description": "El volumen 4 de la serie O Novo Básico, con las tareas del oficio hechas con IA de verdad y cada dato con su fuente.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no primeiro trabalho: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho/kit",
+          "link": "https://go.mymarketing.click/iaprim-ia-no-primeiro-trabalho-o-kit-onl",
+          "description": "Los pedidos listos, las listas de qué revisar y las fuentes del libro, abiertos en el sitio.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

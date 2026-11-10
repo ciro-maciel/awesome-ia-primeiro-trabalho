@@ -1,0 +1,342 @@
+{
+  "slug": "awesome-ia-primeiro-trabalho",
+  "language": "vi",
+  "title": "Awesome IA no primeiro trabalho",
+  "description": "AI cho người mới đi làm: trợ lý, quyền riêng tư, nơi tìm việc, quyền lợi của người đi làm lần đầu và các chiêu lừa tin tuyển dụng giả.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Trợ lý AI",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaprim-chatgpt",
+          "description": "Trợ lý của OpenAI, có gói miễn phí và gói trả phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaprim-claude",
+          "description": "Trợ lý của Anthropic, có gói miễn phí và gói trả phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaprim-copilot",
+          "description": "Trợ lý của Microsoft, cũng có trong Windows và Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaprim-gemini",
+          "description": "Trợ lý của Google, cũng có trong Gmail và Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Quyền riêng tư với các AI",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaprim-anthropic-onde-mudar-o-treino",
+          "description": "Cách ngăn cuộc trò chuyện của bạn trên Claude được dùng để huấn luyện mô hình.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaprim-google-atividade-do-gemini",
+          "description": "Cách tắt lịch sử hoạt động của Gemini và điều gì thay đổi khi làm vậy.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaprim-microsoft-controles-de-privacidad",
+          "description": "Nơi tìm các cài đặt quyền riêng tư và huấn luyện của Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaprim-openai-controles-de-dados",
+          "description": "Cách ngăn các cuộc trò chuyện trên ChatGPT được dùng để huấn luyện mô hình.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaprim-whatsapp-privacidade",
+          "description": "WhatsApp nói gì về quyền riêng tư, kể cả khi trò chuyện với Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "vagas",
+      "title": "Nơi tìm việc",
+      "items": [
+        {
+          "name": "CIEE",
+          "url": "https://portal.ciee.org.br/",
+          "link": "https://go.mymarketing.click/iaprim-ciee",
+          "description": "Trung tâm Integração Empresa-Escola, có việc thực tập và học nghề.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gupy: como a IA ordena candidatos",
+          "url": "https://www.gupy.io/inteligencia-artificial/ordenacao-de-pessoas-candidatas-em-vagas",
+          "link": "https://go.mymarketing.click/iaprim-gupy-como-a-ia-ordena-candidatos",
+          "description": "Giải thích của Gupy về cách AI của họ sắp xếp các hồ sơ ứng tuyển.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sine no gov.br",
+          "url": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+          "link": "https://go.mymarketing.click/iaprim-sine-no-gov-br",
+          "description": "Hệ thống Việc làm Quốc gia, để tìm việc qua chính phủ.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "direitos",
+      "title": "Quyền lợi của người mới đi làm",
+      "items": [
+        {
+          "name": "CLT",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+          "link": "https://go.mymarketing.click/iaprim-clt",
+          "description": "Bộ luật Lao động Consolidação das Leis do Trabalho (CLT).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do estágio",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+          "link": "https://go.mymarketing.click/iaprim-lei-do-estagio",
+          "description": "Lei 11.788/2008, với quyền lợi của thực tập sinh.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do vale-transporte",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418.htm",
+          "link": "https://go.mymarketing.click/iaprim-lei-do-vale-transporte",
+          "description": "Lei 7.418/1985, quy định vé giao thông (vale-transporte).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabela de contribuição do INSS",
+          "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal",
+          "link": "https://go.mymarketing.click/iaprim-tabela-de-contribuicao-do-inss",
+          "description": "Bao nhiêu phần lương đóng cho INSS, theo bảng chính thức.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabelas do Imposto de Renda 2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+          "link": "https://go.mymarketing.click/iaprim-tabelas-do-imposto-de-renda-2026",
+          "description": "Bao nhiêu phần lương đóng cho Thuế thu nhập, theo bảng chính thức.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "Việc làm giả và lừa đảo nhiệm vụ",
+      "items": [
+        {
+          "name": "CERT.br: golpes, o que fazer",
+          "url": "https://cartilha.cert.br/fasciculos/golpes-o-que-fazer/fasciculo-golpes-o-que-fazer.pdf",
+          "link": "https://go.mymarketing.click/iaprim-cert-br-golpes-o-que-fazer",
+          "description": "Việc cần làm sau khi bị lừa, trong tài liệu của CERT.br.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: golpe da tarefa",
+          "url": "https://portal.febraban.org.br/noticia/4051/pt-br/",
+          "link": "https://go.mymarketing.click/iaprim-febraban-golpe-da-tarefa",
+          "description": "Cảnh báo của Febraban về trò lừa trả tiền để thích bài rồi đòi tiền sau.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: vaga falsa",
+          "url": "https://portal.febraban.org.br/noticia/4449/pt-br/",
+          "link": "https://go.mymarketing.click/iaprim-febraban-vaga-falsa",
+          "description": "Cảnh báo của Febraban về các việc làm giả.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Registrato do Banco Central",
+          "url": "https://www.bcb.gov.br/meubc/registrato",
+          "link": "https://go.mymarketing.click/iaprim-registrato-do-banco-central",
+          "description": "Tra cứu miễn phí tài khoản, khoản vay và khóa Pix đứng tên bạn, để xem có ai đã dùng dữ liệu của bạn không.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Bảo vệ dữ liệu",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaprim-lgpd",
+          "description": "Luật Bảo vệ Dữ liệu Cá nhân (LGPD), bản tổng hợp trên trang của Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaprim-anpd",
+          "description": "Cơ quan Quốc gia về Bảo vệ Dữ liệu (ANPD), với hướng dẫn và quy định về LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Sách và bộ tài liệu",
+      "items": [
+        {
+          "name": "IA no primeiro trabalho (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/iaprim-ia-no-primeiro-trabalho-livro",
+          "description": "Tập 4 của loạt O Novo Básico, với các công việc nghề nghiệp làm bằng AI thật và mỗi thông tin đều có nguồn.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no primeiro trabalho: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho/kit",
+          "link": "https://go.mymarketing.click/iaprim-ia-no-primeiro-trabalho-o-kit-onl",
+          "description": "Các yêu cầu có sẵn, danh sách những việc cần kiểm tra và nguồn của sách, mở trên trang web.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

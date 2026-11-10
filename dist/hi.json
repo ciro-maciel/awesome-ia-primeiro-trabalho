@@ -1,0 +1,342 @@
+{
+  "slug": "awesome-ia-primeiro-trabalho",
+  "language": "hi",
+  "title": "Awesome IA no primeiro trabalho",
+  "description": "शुरुआत करने वालों के लिए AI: असिस्टेंट, प्राइवेसी, नौकरी कहाँ ढूँढें, पहली नौकरी के अधिकार और फर्जी नौकरी के धोखे।",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI असिस्टेंट",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaprim-chatgpt",
+          "description": "OpenAI का असिस्टेंट, मुफ़्त और सशुल्क योजनाओं के साथ।",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaprim-claude",
+          "description": "Anthropic का असिस्टेंट, मुफ़्त और सशुल्क योजनाओं के साथ।",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaprim-copilot",
+          "description": "Microsoft का असिस्टेंट, जो Windows और Office के अंदर भी है।",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaprim-gemini",
+          "description": "Google का असिस्टेंट, जो Gmail और Google Docs के अंदर भी है।",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI में गोपनीयता",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaprim-anthropic-onde-mudar-o-treino",
+          "description": "Claude में अपनी बातचीत को मॉडल के प्रशिक्षण में उपयोग होने से कैसे रोकें।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaprim-google-atividade-do-gemini",
+          "description": "Gemini की गतिविधि इतिहास कैसे बंद करें और इससे क्या बदलता है।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaprim-microsoft-controles-de-privacidad",
+          "description": "Copilot की गोपनीयता और प्रशिक्षण नियंत्रण कहाँ मिलते हैं।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaprim-openai-controles-de-dados",
+          "description": "ChatGPT में बातचीत को मॉडल के प्रशिक्षण में उपयोग होने से कैसे रोकें।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaprim-whatsapp-privacidade",
+          "description": "WhatsApp गोपनीयता के बारे में क्या कहता है, Meta AI से बात करने पर भी।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "vagas",
+      "title": "नौकरी कहाँ खोजें",
+      "items": [
+        {
+          "name": "CIEE",
+          "url": "https://portal.ciee.org.br/",
+          "link": "https://go.mymarketing.click/iaprim-ciee",
+          "description": "CIEE, जिसमें इंटर्नशिप और अप्रेंटिस की नौकरियाँ हैं।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gupy: como a IA ordena candidatos",
+          "url": "https://www.gupy.io/inteligencia-artificial/ordenacao-de-pessoas-candidatas-em-vagas",
+          "link": "https://go.mymarketing.click/iaprim-gupy-como-a-ia-ordena-candidatos",
+          "description": "Gupy की व्याख्या कि उसका AI आवेदनों को कैसे क्रम देता है।",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sine no gov.br",
+          "url": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+          "link": "https://go.mymarketing.click/iaprim-sine-no-gov-br",
+          "description": "राष्ट्रीय रोज़गार प्रणाली, सरकार के ज़रिए नौकरी खोजने के लिए।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "direitos",
+      "title": "नए कर्मचारियों के अधिकार",
+      "items": [
+        {
+          "name": "CLT",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+          "link": "https://go.mymarketing.click/iaprim-clt",
+          "description": "CLT, यानी श्रम कानूनों का समेकन।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do estágio",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+          "link": "https://go.mymarketing.click/iaprim-lei-do-estagio",
+          "description": "कानून 11.788/2008, जिसमें इंटर्न के अधिकार हैं।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do vale-transporte",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7418.htm",
+          "link": "https://go.mymarketing.click/iaprim-lei-do-vale-transporte",
+          "description": "कानून 7.418/1985, जो वेतन परिवहन भत्ता बनाता है।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabela de contribuição do INSS",
+          "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal",
+          "link": "https://go.mymarketing.click/iaprim-tabela-de-contribuicao-do-inss",
+          "description": "आधिकारिक तालिका के अनुसार वेतन का कितना हिस्सा INSS में जाता है।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabelas do Imposto de Renda 2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+          "link": "https://go.mymarketing.click/iaprim-tabelas-do-imposto-de-renda-2026",
+          "description": "आधिकारिक तालिका के अनुसार वेतन का कितना हिस्सा आयकर में जाता है।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "नकली नौकरी और टास्क घोटाला",
+      "items": [
+        {
+          "name": "CERT.br: golpes, o que fazer",
+          "url": "https://cartilha.cert.br/fasciculos/golpes-o-que-fazer/fasciculo-golpes-o-que-fazer.pdf",
+          "link": "https://go.mymarketing.click/iaprim-cert-br-golpes-o-que-fazer",
+          "description": "घोटाले का शिकार होने के बाद क्या करें, CERT.br के पर्चे में।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: golpe da tarefa",
+          "url": "https://portal.febraban.org.br/noticia/4051/pt-br/",
+          "link": "https://go.mymarketing.click/iaprim-febraban-golpe-da-tarefa",
+          "description": "Febraban की चेतावनी उस घोटाले पर जिसमें पहले पैसे माँगे जाते हैं और फिर वसूली होती है।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: vaga falsa",
+          "url": "https://portal.febraban.org.br/noticia/4449/pt-br/",
+          "link": "https://go.mymarketing.click/iaprim-febraban-vaga-falsa",
+          "description": "Febraban की चेतावनी नकली नौकरी के विज्ञापनों पर।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Registrato do Banco Central",
+          "url": "https://www.bcb.gov.br/meubc/registrato",
+          "link": "https://go.mymarketing.click/iaprim-registrato-do-banco-central",
+          "description": "आपके नाम पर खाते, कर्ज़ और Pix कुंजियों की मुफ़्त जाँच, ताकि पता चले किसी ने आपका डेटा इस्तेमाल किया है या नहीं।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "डेटा सुरक्षा",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaprim-lgpd",
+          "description": "सामान्य डेटा संरक्षण कानून, Planalto के संकलित पाठ में।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaprim-anpd",
+          "description": "राष्ट्रीय डेटा संरक्षण प्राधिकरण, LGPD के मार्गदर्शक और नियमों के साथ।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "किताब और किट",
+      "items": [
+        {
+          "name": "IA no primeiro trabalho (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/iaprim-ia-no-primeiro-trabalho-livro",
+          "description": "O Novo Básico श्रृंखला का वॉल्यूम 4, जिसमें पेशे के कामों को असली AI से किया गया है और हर तथ्य के साथ स्रोत दिया गया है।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no primeiro trabalho: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho/kit",
+          "link": "https://go.mymarketing.click/iaprim-ia-no-primeiro-trabalho-o-kit-onl",
+          "description": "तैयार प्रॉम्प्ट, जाँच की सूचियाँ और पुस्तक के स्रोत, वेबसाइट पर खुले हुए।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
